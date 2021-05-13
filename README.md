@@ -1,6 +1,6 @@
 # MyChocolatey
 
->Simple Script for Install/Update Application of your(my) choice.
+>Simple Script for Install/Update Application of your choice.
 
 ## See Also
 [Chocolatey](https://community.chocolatey.org/)
