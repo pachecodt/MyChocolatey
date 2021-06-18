@@ -15,6 +15,7 @@ choco install postman -y
 choco install docker-desktop -y
 choco install fiddler -y
 choco install openvpn -y
+choco install cmder -y
 
 REM Developer DataBase
 choco install mongodb -y
@@ -22,4 +23,4 @@ choco install robo3t -y
 choco install sql-server-2019 -y
 choco install sql-server-management-studio -y
 choco install apache-cassandra -y
-
+choco install dbeaver -y
